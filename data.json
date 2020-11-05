@@ -1,0 +1,31 @@
+[
+    {
+        "city": "paris",
+        "image": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?ixlib=rb-1.2.1&w=1000&q=80",
+        "desc":"this is a good city and most loveable city in the world",
+        "price":"$500"
+    },
+
+    {
+        "city": "london",
+        "image": "https://images.unsplash.com/photo-1533929736458-ca588d08c8be?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=80",
+        "desc":"this is a good city and most loveable city in the world",
+        "price":"$580"
+    },
+
+    {
+        "city": "italy",
+        "image": "https://www.fodors.com/wp-content/uploads/2019/03/20GorgeousSidetownsinItaly__HERO_shutterstock_688078159.jpg",
+        "desc":"this is a good city and most loveable city in the world",
+        "price":"$240"
+    },
+
+    {
+        "city": "switzerland",
+        "image": "https://files.pitchbook.com/website/images/ar/featured/b/2x/Switzerland.jpg",
+        "desc":"this is a good city and most loveable city in the world",
+        "price":"$800"
+    }
+
+
+]
